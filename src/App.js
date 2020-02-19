@@ -46,7 +46,7 @@ class App extends React.Component{
         humidity: undefined,
         descripton: undefined,
         img: undefined,
-        error: "Please enter the valid values!"
+        error: "Please enter the valid value!"
       });
     }
     
